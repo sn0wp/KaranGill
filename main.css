@@ -1,0 +1,29 @@
+.login{
+  
+  text-align: center;
+}
+.top-section{
+  color: #f442bf;
+  text-align: center;
+}
+.column-left{
+  font-size: 40px;
+  padding-bottom: 105px;
+  background-color: pink;
+  float: left;
+  width: 33%;
+ }
+.column-right{
+  padding-bottom: 8.5px;
+  padding-left: 12px;
+  background-color: #ce42f4;
+  float: right;
+  width: 33%;
+}
+.column-center{
+  padding-bottom: 104px;
+  background-color: #f441a6;
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
